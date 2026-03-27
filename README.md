@@ -11,9 +11,9 @@ Showcasing practical cybersecurity skills through hands-on labs and real attack 
 </p>
 
 <ul>
-  <li>Vulnerable Machines Write-Ups  (CTFs) </li>
-  <li>TryHackMe Labs & Learning Paths </li>
-  <li>Blue Team Defense & Incident Analysis </li>
+  <li><a href="./vulnerable-machines">Vulnerable Machines Write-Ups (CTFs)</a></li>
+  <li><a href="./TryHackMe-Labs-Learning-Paths">TryHackMe Labs & Learning Paths</a></li>
+  <li><a href="./blue-team">Blue Team Defense & Incident Analysis</a></li>
 </ul>
 
 <h2>🎯 Goal</h2>
@@ -21,3 +21,4 @@ Showcasing practical cybersecurity skills through hands-on labs and real attack 
 <p>
 Junior SOC Security Analyst specializing in incident detection, analysis, and response.
 </p>
+
