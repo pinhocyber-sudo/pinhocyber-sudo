@@ -16,8 +16,6 @@
   </li>
   <li>
     <a href="./TryHackMe-Labs-Learning-Paths">TryHackMe Labs & Learning Paths</a> 
-    <br>
-    <small>Showcasing skills developed through hands-on labs and coursework on the TryHackMe platform.</small>
   </li>
   <li>
     <a href="./blue-team">Blue Team Defense & Incident Analysis</a>
