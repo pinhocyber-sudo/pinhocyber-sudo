@@ -12,13 +12,13 @@
 
 <ul>
   <li>
-    <a href="./vulnerable-machines">Vulnerable Machines Write-Ups (CTFs)</a>
+    <a href="https://github.com/pinhocyber-sudo/vulnerable-machines">Vulnerable Machines Write-Ups (CTFs)</a>
   </li>
   <li>
-    <a href="./TryHackMe-Labs-Learning-Paths">TryHackMe Labs & Learning Paths</a> 
+    <a href="https://github.com/pinhocyber-sudo/TryHackMe-Labs-Learning-Paths">TryHackMe Labs & Learning Paths</a> 
   </li>
   <li>
-    <a href="./blue-team">Blue Team Defense & Incident Analysis</a>
+    <a href="https://github.com/pinhocyber-sudo/blue-team">Blue Team Defense & Incident Analysis</a>
   </li>
 </ul>
 
